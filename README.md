@@ -4,7 +4,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://aminez.ir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Backend+Developer;Python+%2F+Django+%2F+DRF+Specialist;Exploring+AI+%26+Deep+Learning;Building+Purpose-Driven+Digital+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Web-Developer+%26+Backend+Developer;Python+%2F+Django+%2F+DRF+Specialist;Exploring+AI+%26+Deep+Learning;Building+Purpose-Driven+Digital+Products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -68,16 +68,3 @@ I am a passionate software developer dedicated to crafting modern digital produc
 | **[Trip OS](https://aminez.ir)** | Workflow and project management tool designed for streamlined operations | Python, Django REST, JavaScript, REST API |
 
 ---
-
-## 📈 Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amin-Ezz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Ezz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="45%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Designed & engineered with a focus on simplicity, performance, and clean architecture. Visit <a href="https://aminez.ir"><b>aminez.ir</b></a> for more details.</sub>
-</div>
