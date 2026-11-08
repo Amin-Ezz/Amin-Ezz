@@ -4,7 +4,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://aminez.ir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Web-Developer+%26+Backend+Developer;Python+%2F+Django+%2F+DRF+Specialist;Exploring+AI+%26+Deep+Learning;Building+Purpose-Driven+Digital+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Web Developer+%26+Backend+Developer;Python+%2F+Django+%2F+DRF+Specialist;Exploring+AI+%26+Deep+Learning;Building+Purpose-Driven+Digital+Products" alt="Typing SVG" />
 </a>
 
 <br/>
